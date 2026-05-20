@@ -1,0 +1,6 @@
+{
+  "name": "CoffeeBoom Proposal",
+  "description": "Interactive technical and commercial proposal for the CoffeeBoom IT ecosystem, featuring timeline calculators, live mobile/admin simulators, and an AI-powered proposal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
